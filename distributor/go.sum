@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/obalunenko/logger v1.0.1 h1:XERBQry7q7Kxr6lDeh9RLsUr7oZj+T5J845B4RPxORE=
+github.com/obalunenko/logger v1.0.1/go.mod h1:BLGJLvxm4ImsjuGVOjrx59VUsbsLR2f7IkVPFjLyBvg=
+golang.org/x/sync v0.6.0 h1:5BMeUDZ7vkXGfEr1x9B4bRcTH4lpkTkpdh0T/J+qjbQ=
+golang.org/x/sync v0.6.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
